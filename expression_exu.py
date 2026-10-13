@@ -7,3 +7,8 @@ print(A*Txt*B) #output-> @@@@@@
 A,B = "2",3
 Txt = "@"
 print(A+Txt*B)
+
+A = 3
+B = 4
+C = A/B
+print(C)
