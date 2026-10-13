@@ -12,3 +12,9 @@ A = 3
 B = 4
 C = A/B
 print(C)
+
+
+#comment 
+#single line comment 
+
+""""This us multi line comment"""
